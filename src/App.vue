@@ -1,0 +1,1 @@
+<template>  <div id="app">    <!--map-->    <router-view></router-view>  </div></template><script></script><style>  @import "./assets/css/_reset.css";</style>
